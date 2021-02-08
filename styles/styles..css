@@ -1,0 +1,41 @@
+/* ======================MENU=====================*/
+.label {
+  align-items: center;
+  font-weight: 700;
+}
+/*==================================================*/
+
+/*================titulo e descrição================*/
+
+.jumbotron {
+  background-color: #fff;
+}
+
+.jumbotron .container {
+  max-width: 40rem;
+}
+
+.jumbotron-heading {
+  font-weight: 300;
+  margin-top: 28px;
+}
+
+img {
+  height: 225px;
+  width: 100%;
+  display: block;
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+footer {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+
+footer p {
+  margin-bottom: 0.25rem;
+}
