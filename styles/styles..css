@@ -1,12 +1,12 @@
-/* ======================MENU=====================*/
+/* ======================MENU=======================*/
+/*==================================================*/
 .label {
   align-items: center;
   font-weight: 600;
-  font-size: 20px;
-  margin-bottom: -1px;
+  font-size: 1.25rem;
 }
-/*==================================================*/
 
+/*==================================================*/
 /*================titulo e descrição================*/
 
 .jumbotron {
@@ -19,19 +19,22 @@
 
 .jumbotron-heading {
   font-weight: 300;
-  margin-top: 28px;
+  margin-top: 1.75rem;
 }
 
 img {
-  height: 225px;
-  width: 100%;
   display: block;
+  height: 14.063rem;
+  width: 100%;
 }
 
 p {
   margin-top: 0;
   margin-bottom: 1rem;
 }
+
+/*======================================*/
+/*================Footer================*/
 
 footer {
   padding-top: 3rem;
